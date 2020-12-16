@@ -7,9 +7,9 @@
 </p>
 
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020/2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to make cold brew ☕ and play/watch basketball 🏀
+- 🌱  I’m currently learning everything 🤣
+- 🥅  2020/2021 Goals: Contribute more to Open Source projects
+- ⚡  Fun fact: I love to make cold brew ☕ and play/watch basketball 🏀
 
 ### Spotify Playing 🎧
 
