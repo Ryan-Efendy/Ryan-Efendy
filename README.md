@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.ryan-efendy.vercel.app/api/spotify)](https://open.spotify.com/user/1255568371)
+[![Spotify](https://novatorem.ryan-efendy.vercel.app/api/spotify)](https://open.spotify.com/user/126996808)
 
 
 ### Connect with me:
