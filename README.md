@@ -7,7 +7,7 @@
 </p>
 
 
-- 🌱  Software Engineer @ Microsoft Azure | Previosuly @ AWS, PayPal & Oracle
+- 🌱  Software Engineer @ Microsoft Azure | Previously @ AWS, PayPal & Oracle
 - 🌱  I’m currently learning everything 🤣
 - 🥅  2020/2021 Goals: Contribute more to Open Source projects
 - ⚡  Fun fact: I love to make cold brew ☕ and play/watch basketball 🏀
